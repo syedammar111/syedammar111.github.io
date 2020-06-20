@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### My projects 
 
-[Boutique Fur Gallery](/boutiquefurgallery.com)
+[Boutique Fur Gallery](boutiquefurgallery.com)
 <img src="images/Screenshot (4).png?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[The Oil](https://theoil.pk/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -31,5 +31,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
