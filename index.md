@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Boutique Fur Gallery](/boutiquefurgallery.com)
 <img src="IMG_20200512_121323.jpg"/>
 
 ---
