@@ -3,8 +3,6 @@ logo: "/images/IMG_20200512_121323.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Designer, Developer, Data Scientist and IT Specialist
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/">My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
