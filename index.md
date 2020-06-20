@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Boutique Fur Gallery](/boutiquefurgallery.com)
-<img src="IMG_20200512_121323.jpg"/>
+<img src="images/IMG_20200512_121323.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
