@@ -8,9 +8,10 @@
 <img src="images/Screenshot (4).png?raw=true"/>
 
 ---
+<!-- commented out section
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+-->
 ---
 [The Oil](https://theoil.pk/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
