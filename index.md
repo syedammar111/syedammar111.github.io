@@ -4,7 +4,7 @@
 
 ### My projects 
 
-[Boutique Fur Gallery](boutiquefurgallery.com)
+[Boutique Fur Gallery](https:boutiquefurgallery.com)
 <img src="images/Screenshot (4).png?raw=true"/>
 
 ---
